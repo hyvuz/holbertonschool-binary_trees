@@ -1,0 +1,1 @@
+This project is about building and working with trees in C. It covers the creation, traversal, and analysis of binary trees, including Binary Search Trees (BST), AVL trees, and heaps. The goal is to gain a deeper understanding of how tree data structures work and how they are represented and managed in memory.
